@@ -1,4 +1,4 @@
-# Mi titulo
+# Mi titulo 1
 Primera página de práctica de Jupyter Book
 (Seccion-label-1)=
 (secc)=
