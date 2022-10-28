@@ -57,7 +57,7 @@ Escribiendo muchas cosas.
 Escribiendo muchas cosas.
 Escribiendo muchas cosas.
 Escribiendo muchas cosas.
-Haciendo una referencia a [this title](secc)
+Haciendo una referencia a [Vaya a la seccion de subtítulo](secc)
 Escribiendo muchas cosas.
 Escribiendo muchas cosas.
 Escribiendo muchas cosas.
